@@ -33,6 +33,3 @@ Acknowledgments
 * Inspired by real-world currency conversion tools.
 * Thanks to online resources for API integration and JavaScript tips.
 
-Contact
-For any questions or feedback, please contact me at mahatoprince61@gmail.com
-
